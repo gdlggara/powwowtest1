@@ -71,7 +71,6 @@
     "isViewIssues": {
       "type": "action",
       "selector": "table",
-      "selectContains": "buglist",
       "control": "exists"
     }
   },
