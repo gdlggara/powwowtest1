@@ -71,7 +71,8 @@
     "isViewIssues": {
       "type": "identifier",
       "selector": "table",
-      "control": "exists"
+      "control": "exists",
+      "selectContains": "buglist"
     }
   },
   "connect": []
