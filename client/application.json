@@ -4,5 +4,10 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "a6e91b50",
   "uiCommonVersion": "5.1.2",
-  "creatorId": "gdlggara"
+  "creatorId": "gdlggara",
+  "id": "powwowtest1",
+  "previewImageURL": "/previews/a6e91b50-powwowtest1/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/gdlggara/powwowtest1",
+  "creatorName": "Guillermo Garate Amaral"
 }
