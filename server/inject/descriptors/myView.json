@@ -3,8 +3,9 @@
   "properties": {
     "ismyview": {
       "type": "identifier",
-      "selector": ".form-title",
-      "control": "property.innerText"
+      "selector": ".subtle[href]",
+      "control": "exists",
+      "selectContains": "Assigned to Me"
     }
   },
   "connect": []
