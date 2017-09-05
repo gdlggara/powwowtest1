@@ -12,7 +12,9 @@
             "update": {
               "type": "none"
             },
-            "selector": "a"
+            "selector": "td",
+            "selectIndex": 3,
+            "control": "property.innerText"
           },
           "summary": {
             "type": "string",
