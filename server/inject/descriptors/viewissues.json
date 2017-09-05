@@ -69,7 +69,7 @@
       "selectorAll": "#buglist tr[bgcolor]"
     },
     "isViewIssues": {
-      "type": "action",
+      "type": "identifier",
       "selector": "table",
       "control": "exists"
     }
