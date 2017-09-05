@@ -70,9 +70,9 @@
     },
     "isViewIssues": {
       "type": "action",
-      "selector": "span .floatleft",
-      "control": "property.innerText",
-      "selectContains": "Viewing Issues"
+      "selector": "table",
+      "selectContains": "buglist",
+      "control": "exists"
     }
   },
   "connect": []
