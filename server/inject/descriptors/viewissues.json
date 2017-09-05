@@ -48,9 +48,7 @@
             "update": {
               "type": "none"
             },
-            "selector": "td a",
-            "selectIndex": 8,
-            "control": "property.innerText"
+            "selectIndex": 8
           },
           "updated": {
             "type": "string",
