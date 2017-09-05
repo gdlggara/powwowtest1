@@ -70,9 +70,9 @@
     },
     "isViewIssues": {
       "type": "identifier",
-      "selector": "table",
+      "selector": ".form-title",
       "control": "exists",
-      "selectContains": "buglist"
+      "selectContains": "Viewing Issues"
     }
   },
   "connect": []
