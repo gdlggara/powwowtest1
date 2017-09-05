@@ -33,8 +33,7 @@
         "type": "none"
       },
       "selector": "font",
-      "control": "property.innerText",
-      "selectContains": "Your account may be disabled or blocked"
+      "control": "property.innerText"
     },
     "submit": {
       "type": "action",
