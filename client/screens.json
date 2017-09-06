@@ -47,6 +47,12 @@
       "name": "test1",
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank"
+    },
+    {
+      "id": "reportissue",
+      "name": "reportissue",
+      "sourceScreenId": "app.menu",
+      "sourceAppId": "_blank"
     }
   ],
   "sourceAppId": "_blank",
