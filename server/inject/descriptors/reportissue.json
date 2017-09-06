@@ -19,5 +19,14 @@
       "selectContains": "Enter Report Details"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isreportissue"
+      ],
+      "screens": [
+        "reportissue"
+      ]
+    }
+  ]
 }
