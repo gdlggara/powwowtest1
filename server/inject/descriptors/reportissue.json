@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "comment": "",
+  "properties": {
+    "categorylist": {
+      "type": "select"
+    },
+    "description": {
+      "type": "string",
+      "selector": "[name=\"description\"]",
+      "control": "property.innerText"
+    }
+  },
+  "connect": []
+}
