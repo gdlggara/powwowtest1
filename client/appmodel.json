@@ -137,6 +137,9 @@
     "properties": {
       "categorylist": {
         "type": "select"
+      },
+      "description": {
+        "type": "string"
       }
     }
   }
