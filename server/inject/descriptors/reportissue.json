@@ -4,7 +4,7 @@
   "properties": {
     "categorylist": {
       "type": "select",
-      "selector": "select[name=\"project_id\"]",
+      "selector": "select[name=\"category_id\"]",
       "control": "select"
     },
     "description": {
