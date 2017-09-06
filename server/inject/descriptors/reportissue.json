@@ -3,7 +3,9 @@
   "comment": "",
   "properties": {
     "categorylist": {
-      "type": "select"
+      "type": "select",
+      "selector": "[name=\"category_id\"]",
+      "control": "property.innerText"
     },
     "description": {
       "type": "string",
