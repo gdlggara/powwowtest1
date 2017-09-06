@@ -38,7 +38,9 @@
       "action": "submit"
     },
     {
-      "match": [],
+      "match": [
+        "isreportissue"
+      ],
       "screens": [
         "reportissue"
       ]
