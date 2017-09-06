@@ -32,6 +32,7 @@
   "connect": [
     {
       "match": [
+        "isreportissue",
         "isreportissue"
       ],
       "action": "submit"
