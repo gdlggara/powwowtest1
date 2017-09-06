@@ -17,6 +17,9 @@
       "selector": ".form-title",
       "control": "exists",
       "selectContains": "Enter Report Details"
+    },
+    "summary": {
+      "type": "string"
     }
   },
   "connect": [
