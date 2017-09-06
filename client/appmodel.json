@@ -140,6 +140,9 @@
       },
       "description": {
         "type": "string"
+      },
+      "summary": {
+        "type": "string"
       }
     }
   }
