@@ -19,7 +19,9 @@
       "selectContains": "Enter Report Details"
     },
     "summary": {
-      "type": "string"
+      "type": "string",
+      "selector": "[name=\"summary\"]",
+      "control": "property.innerText"
     }
   },
   "connect": [
