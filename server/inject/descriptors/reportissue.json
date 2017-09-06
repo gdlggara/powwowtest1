@@ -25,7 +25,7 @@
     },
     "submit": {
       "type": "action",
-      "selector": ".button",
+      "selector": "input.button",
       "control": "exists"
     }
   },
