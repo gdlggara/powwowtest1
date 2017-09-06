@@ -4,8 +4,8 @@
   "properties": {
     "categorylist": {
       "type": "select",
-      "selector": "select[name=\"project_id\"] option",
-      "control": "property.innerText"
+      "selector": "select[name=\"project_id\"]",
+      "control": "select"
     },
     "description": {
       "type": "string",
