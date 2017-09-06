@@ -22,6 +22,11 @@
       "type": "string",
       "selector": "[name=\"summary\"]",
       "control": "property.innerText"
+    },
+    "submit": {
+      "type": "action",
+      "selector": ".button",
+      "control": "exists"
     }
   },
   "connect": [
