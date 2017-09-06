@@ -140,7 +140,10 @@
         "items": {
           "type": "object",
           "properties": {
-            "name": {
+            "label": {
+              "type": "string"
+            },
+            "value": {
               "type": "string"
             }
           }
