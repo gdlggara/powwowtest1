@@ -26,7 +26,7 @@
     "submit": {
       "type": "action",
       "selector": "input.button",
-      "control": "exists"
+      "control": "action.button"
     }
   },
   "connect": [
